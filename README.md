@@ -1,4 +1,4 @@
-# Documento de Visão SIS-CURE  VERSÃO 1.O
+# Documento de Visão SIS-CURE  Versão 1.O
 CODE SQUAD - FACULDADE DE TECNOLOGIA DO AMAPÁ.
 
 			
