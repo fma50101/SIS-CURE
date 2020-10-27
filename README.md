@@ -52,8 +52,8 @@ Acesso à internet;
 
 **Para** | **Funcionários.**
 ------------- | ---------------
-**Afeta** | **Necessita de um controle automatizado, que garanta o controle total sobre as informações e transações do seu estabelecimento em um tempo hábil e de uma forma segura.**
-**Que** | **Funcionários passarão a realizar o controle dos medicamentos ou a falta dos produtos no estoque e manter a constância com os fornecedores.**
+**Afeta** | **Funcionários passarão a realizar o controle dos medicamentos ou a falta dos produtos no estoque e manter a constância com os fornecedores.**
+**Que** | **Necessita de um controle automatizado, que garanta o controle total sobre as informações e transações do seu estabelecimento em um tempo hábil e de uma forma segura.**
 **O SIS-CURE** | **É um sistema para facilitar a gestão de funcionários e manter o controle do estoque.**
 **Que** | **Por meio do sistema, controlar a entrada e a saída de produtos, conferir, repor, organizar mercadoria**
 **Diferente de** | **Não se aplica**
